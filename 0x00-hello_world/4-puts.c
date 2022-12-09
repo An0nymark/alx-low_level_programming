@@ -1,12 +1,29 @@
 #include <stdio.h>
-/*
- * main - print a line using the function 'puts'
+
+
+
+/**
  *
- * return: 0
- */
+ *  * main - KRIS
+ *
+ *   *  Return: AlwayTs 0
+ *
+ *    */
+
+
 
 int main(void)
+
+
+
 {
-	puts("\"Programming is like building a multilingual puzzle");
-			return (0);
+
+		puts("\"Programming is like building a multilingual puzzle");
+
+
+
+					return (0);
+
+
+
 }
