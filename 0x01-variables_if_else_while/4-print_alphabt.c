@@ -2,16 +2,15 @@
 #include <stdlib.h>
 
 /**
- * main - Print all the letters except q and e
+ * main - returns
  *
- * Return:0 
+ * Return:0
  */
 
 int main(void)
-
 {
 	char ch = 'a';
-	
+
 	while (ch <= 'z')
 	{
 		if ((ch != 'e') && (ch != 'q'))
