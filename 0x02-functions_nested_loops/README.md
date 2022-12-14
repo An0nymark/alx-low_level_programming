@@ -1,3 +1,2 @@
-#!/bin/bash
-# C Functions and Nested Loops
-All about nested loops
+# C PROGRAMMING
+* Where my journey starts!
