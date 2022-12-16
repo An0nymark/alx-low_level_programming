@@ -5,6 +5,7 @@
  * @c: parameter
  * Return: 0 is success
  */
+
 int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
