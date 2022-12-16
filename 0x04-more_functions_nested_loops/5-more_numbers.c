@@ -2,7 +2,7 @@
 
 /**
  * more_numbers - prints more numbers
- * Return: 0 if successful k
+ * Return: 0 if successful
  */
 
 void more_numbers(void)
