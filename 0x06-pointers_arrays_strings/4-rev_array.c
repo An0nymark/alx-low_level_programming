@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * reverse_array - function that reverses the array of integers kris
+ * reverse_array - function that reverses the array of integers
  * @a: an array of integers
  * @n: number of elements to swap
  * Return: void
