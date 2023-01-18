@@ -5,9 +5,9 @@
  * @d: pointer to structure
  * @name: pointer to the dog
  * @age: pointer to the age of the dog
- * @owner: pointer to the owner of the dog
+ * @owner: pointer to the owner of the dog ; maina
  *
- * Return: void Maina
+ * Return: void
  */
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
