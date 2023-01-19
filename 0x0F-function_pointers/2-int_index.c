@@ -22,4 +22,6 @@ for (index = 0; index < size; index++)
 if (cmp(array[index]) != 0)
 return (index);
 }
+
+return (-1);
 }
